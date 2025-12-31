@@ -1,0 +1,4 @@
+no,jp,en,slots,video,lv
+1,もう少しで{x}。,I'm almost {x}.,終わります=done|準備ができます=ready,1,2
+2,少し{x}ありますか？,Do you have {x}?,時間=a minute|少し時間=a second,1,2
+3,お待たせしました。,Sorry for the wait.,,1,1
